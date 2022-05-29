@@ -1,5 +1,9 @@
 # LambdaDecompile
 
+<a href="https://ibb.co/wMT7Wbh"><img src="https://i.ibb.co/wMT7Wbh/Screenshot-20220529-135522-Termux.png" alt="Screenshot-20220529-135522-Termux" border="0"></a>
+
+<a href="https://ibb.co/VDjVXHq"><img src="https://i.ibb.co/VDjVXHq/Screenshot-20220529-135439-Termux.png" alt="Screenshot-20220529-135439-Termux" border="0"></a>
+
 
 ## install
 ```python
